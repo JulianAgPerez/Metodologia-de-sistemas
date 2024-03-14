@@ -18,7 +18,7 @@ nav{
   height: 100%;
   left: 0;
   background: #F9993A;
-  width: 140px;
+  width: 90px;
   overflow: hidden;
   transition: width 0.2 linear;
   box-shadow: 0 20px 35px rgb(136, 104, 17);
@@ -68,3 +68,4 @@ a:hover{
 nav:hover{
     width: 300px;
 }
+  
